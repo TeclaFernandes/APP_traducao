@@ -47,7 +47,7 @@ Este é um aplicativo simples de tradução usando a biblioteca `googletrans` pa
 
 ## Exemplo de Interface
 
-![Imagem do Google Translate App](GoogleTranslate.png)
+![Imagem do Google Translate App](interface.png)
 
 ## Sobre
 
